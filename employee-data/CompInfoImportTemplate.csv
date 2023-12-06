@@ -1,0 +1,3 @@
+start-date,event-reason,user-id,end-date,is-eligible-for-benefits,job-level,pay-grade,pay-group,pay-type,operation
+Event Date,Event Reason,User ID,End Date,Is Eligible For Benefit,Job Level,Pay Grade,Pay Group,Pay Type,Operation
+5/13/2022,HIRNEW,20226,,TRUE,Manager,H-01,,Exempt,
